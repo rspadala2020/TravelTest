@@ -1,0 +1,24 @@
+PODS:
+  - DropDown (2.3.13)
+  - SwiftSpinner (2.1.0)
+  - XMLCoder (0.13.1)
+
+DEPENDENCIES:
+  - DropDown
+  - SwiftSpinner
+  - XMLCoder
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - SwiftSpinner
+    - XMLCoder
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  SwiftSpinner: 0f15c006307f8d8bbac075638927ec1361b565d7
+  XMLCoder: bd962586bc6777a9e6a17bc84d97a3c5413a9495
+
+PODFILE CHECKSUM: a7c4abc37be1f91b8024aed3c638c7fbf8245efd
+
+COCOAPODS: 1.10.1
